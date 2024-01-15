@@ -17,8 +17,7 @@ a {
   background: #faf9f9;
 }
 .nav-left {
-    white-space: nowrap;
-    padding-left: 15px;
+  white-space: nowrap;
 }
 
 .logo-wrap {
@@ -82,7 +81,7 @@ a {
   position:absolute;
   background-color:rgb(48, 43, 43);
   border-radius: 5px;
-  left: 120px;
+  left: 220px;
   color: darkgrey;
 }
 .dropdown-container:hover .dropdown-menu2,
